@@ -1,0 +1,30 @@
+.redBox{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+.blueBox{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+.yellowBox{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+}
+.orangeBox{
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+}
+.greenBox{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+.purpleBox{
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+}
